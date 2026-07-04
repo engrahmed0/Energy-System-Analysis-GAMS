@@ -62,9 +62,8 @@ Energy-System-Analysis-GAMS
 │   └── Tables
 │
 └── README.md
-```
 
-## 5) Key Topics Covered
+## 6) Key Topics Covered
 
 - Energy System Analysis
 - Power System Optimization
@@ -77,7 +76,7 @@ Energy-System-Analysis-GAMS
 - Decision Support
 - Sustainable Energy Systems
 
-## 6) Skills Demonstrated
+Skills Demonstrated
 
 ### Engineering
 
@@ -113,7 +112,7 @@ Energy-System-Analysis-GAMS
 
 ---
 
-## 8) Key Results
+## 7) Key Results
 
 The developed optimization models successfully:
 
@@ -126,7 +125,7 @@ The developed optimization models successfully:
 
 ---
 
-## 9) Learning Outcomes
+## 8) Learning Outcomes
 
 Through this project I strengthened my knowledge in:
 
